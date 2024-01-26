@@ -1,3 +1,10 @@
+const name = prompt("Qual o seu nome ?")
+alert("Bem vindo! " + name)
+
+
+
+
+
 function gerarSenha() {
   // Caracteres permitidos na senha
   const caracteres = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
