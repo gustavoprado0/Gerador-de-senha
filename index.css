@@ -9,6 +9,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.main {
+    text-align: center;
+    margin: 10px;
+}
+
 .titulo {
     font-weight: 700;
     text-align: center;
